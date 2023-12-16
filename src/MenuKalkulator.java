@@ -51,7 +51,7 @@ public class MenuKalkulator {
                     continue;
             }
 
-            System.out.println("Hasil : " + hasil);
+            System.out.println("Hasil perhitungan : " + hasil);
 
         }
         input.close();
